@@ -5,7 +5,7 @@ This project includes realization of ray-casting technic and also as bonuses rea
 Use "make" command to compile project. Makefile contains make, clean, fclean commands.
 This project using SDL2 as a window and texture manager (SDL2 library, SDL2 image library, SDL2 TTF library. Makefile contains command to work on Mac os x and Linux platforms, but for Linux platform used SDL2 libraries have to be already installed. Also its working on Windows 10 system, still you need visual studio  project with linked SDL2 libraries.
 
-As a base task this project realize a ray-casting map drawing in pseudo 3D and movement in that labyrinth.
+As a base task this project realize a ray-casting map drawing in pseudo 3D and movement in that labyrinth. 
 As bonuses this project have realization of:
  - buttons;
  - some sort of panel;
@@ -27,7 +27,7 @@ As bonuses this project have realization of:
  - some kind of events and triggers, in-game level progress if you find teleport tile and did not destroy it;
  - end game and win game screen;
  - dynamic map change event;
- - etc...
+ - etc... 
  However, this project is lack of:
  - enough gameplay to be interesting :(
  - enemy sprites and system;
