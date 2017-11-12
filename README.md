@@ -35,5 +35,6 @@ As bonuses this project have realization of:
  - enemy sprites and system;
  - interesting level design;
  - floor and sky was removed due to my bad optimisation of ray-casting on them :(
+ - no sounds at all :(
  
  Hope someday i will return to this project and will improve it to next lvl.
